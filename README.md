@@ -13,3 +13,5 @@ open config.json and
 type forever start bot.js and close 
 
 add bot and enjoy
+
+IF YOU HAVE ANY PROBLEMS DM ME ON DISCORD toehoe_#7777
