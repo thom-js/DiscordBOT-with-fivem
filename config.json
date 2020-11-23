@@ -1,0 +1,10 @@
+{
+    "token" : "bot token ",
+    "prefix" : ">>", 
+    "serverInfo": [
+        "ip",
+        port
+    ]
+}
+
+DELETE THIS MESSAGE < > remember! If you dont add server ip, bot dont start!
