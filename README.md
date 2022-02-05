@@ -6,7 +6,6 @@ open config.json and
 2. paste ip and port < without port and ip bot dont start
 3. save file
 4. go to bot.js and change servernames and what do you want 
-(dont change author, its my own code!)
 5. save file
 
 6.open cmd in the folder with bot.js 
@@ -14,4 +13,3 @@ type forever start bot.js and close
 
 add bot and enjoy
 
-IF YOU HAVE ANY PROBLEMS DM ME ON DISCORD toehoe_#7777
