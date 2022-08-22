@@ -10,7 +10,7 @@ const configs = require("./config.json");
 const fivereborn = require('fivereborn-query');
 client.config = configs;
 const version = "1.2.9 " /// Bot version
-const developer = " | Author : toehoe_#7777 " 
+const developer = " | Author : >tom#7777 " 
 
 /////////////////////////////////////////////////////
 // BOT Start
@@ -248,4 +248,4 @@ footer :{
 
 client.login(configs.token);
 
-//creator toehoe_#7777
+//creator >tom#7777
